@@ -1,0 +1,3 @@
+platform:ios,'7.0'
+pod 'GWTool', '~> 0.0.3'
+pod 'AsyncImageView', '~> 1.6'
